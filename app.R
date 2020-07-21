@@ -98,11 +98,7 @@ library(ggplot2)
                      )
                    )
                    ),
-                   tabPanel("More",
-                       column(10,  "I hypothsize that OTG", selectInput("metric", 
-                                                             label = "choose",
-                                                             choices = list("conversion", "web visitors")) 
-                       )
+                   tabPanel("More"
                      
                    )
                    
