@@ -1,4 +1,4 @@
-<img src="ablogo.png" width="200" align="right" />
+<img src="ablogo.png" width="350" align="right" />
 
 # Quick guide for using ABCoolTool
 
