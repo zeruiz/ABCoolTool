@@ -1,3 +1,5 @@
+# hex-stickers <img src="SVG/RStudio.svg" width="120" align="right" />
+
 # Quick guide for using ABCoolTool
 
 1. Install `R` software from [here](https://cran.r-project.org/). (`R studio` could be optionally downloaded as an auxiliary IDE from [here](https://rstudio.com/products/rstudio/download/))
