@@ -1,4 +1,4 @@
-# hex-stickers <img src="SVG/RStudio.svg" width="120" align="right" />
+<img src="ablogo.png" width="120" align="right" />
 
 # Quick guide for using ABCoolTool
 
